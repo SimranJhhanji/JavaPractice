@@ -3,4 +3,5 @@ Start from basics
 Start from core java
 learn oops concepts 
 Then move to DS
-practice as much as you can
+
+thankyou
